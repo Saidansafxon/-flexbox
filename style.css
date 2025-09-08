@@ -1,0 +1,40 @@
+.box1 {
+    background-color: #282829;
+    color: white;
+    display: flex;
+    font-size: 76px;
+    gap: 30px;
+    box-sizing: border-box;
+
+}
+
+.box2 {
+    box-sizing: border-box;
+    gap: 30px;
+    padding: 12px;
+    display: flex;
+    margin-left: 23px;
+}
+
+.box3 {
+    display: flex;
+    text-align: center;
+    font-size: 60px;
+}
+
+.box4 {
+    display: flex;
+    box-sizing: border-box;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.img {
+width: 393px;
+height: 230px;
+border-radius: 20px;
+}
+
+.box6 {
+    display: flex;
+}
